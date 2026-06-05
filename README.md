@@ -92,3 +92,4 @@ sushi-restaurant/
 - Chrome, Firefox, Safari, Edge (latest versions)
 - Mobile responsive (iOS Safari, Chrome Mobile)
 # hikari-restaurant
+# hikari-restaurant
